@@ -1,0 +1,13 @@
+[project]
+name = "mewgenics-mcp"
+version = "0.1.0"
+description = "Mewgenics Breeding Oracle MCP Server"
+requires-python = ">=3.13"
+dependencies = [
+    "lz4>=4.4.5",
+    "mcp[cli]>=1.26.0",
+    "numpy>=2.4.3",
+]
+
+[project.scripts]
+mewgenics-oracle = "mewgenics_mcp_server:main"

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mewgenics": {
+      "command": "/home/jphardee/.pixi/bin/uv",
+      "args": [
+        "run", "--directory", "/home/jphardee/Desktop/MewgenicsMods/mewgenics-mcp", "python", "mewgenics_mcp_server.py"
+      ]
+    }
+  }
+}
