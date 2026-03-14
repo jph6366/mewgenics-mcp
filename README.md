@@ -1,5 +1,7 @@
 # Mewgenics Breeding Oracle - MCP Server Complete Package
 
+*CREDITS TO https://github.com/accessiblefish/mewgenics-save-editor/ for providing Python utils for parsing Mewgenics save files*
+
 ## 📋 Quick Navigation
 
 This package contains everything needed to build a Model Context Protocol (MCP) server for Mewgenics with an erratic AI oracle that helps with cat breeding optimization and context rot tracking.
