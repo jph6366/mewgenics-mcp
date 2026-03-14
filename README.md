@@ -1,6 +1,7 @@
 # Mewgenics Breeding Oracle - MCP Server Complete Package
 
 *CREDITS TO https://github.com/accessiblefish/mewgenics-save-editor/ for providing Python utils for parsing Mewgenics save files*
+see `mewgenics_save_tool.py`
 
 ## 📋 Quick Navigation
 
